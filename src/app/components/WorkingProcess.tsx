@@ -1,29 +1,7 @@
 'use client'
 
-import { motion } from 'framer-motion'
-import Image from 'next/image'
-import StartAProject from "../../../public/StartAProject.png"
-import ProjectAnalysis from "../../../public/ProjectAnalysis.png"
-import DeliverToSuccess from "../../../public/DeliverToSuccess.png"
 import AnimatedBorderCard from './AnimateBorderCard'
 
-const steps = [
-  {
-    title: 'Start A Project',
-    description: 'Kick off your project with a clear understanding of your goals and requirements, setting the foundation for success.',
-    image: StartAProject
-  },
-  {
-    title: 'Project Analysis',
-    description: 'Conduct a thorough analysis to create a tailored strategy, ensuring all aspects align with your business objectives.',
-    image: ProjectAnalysis
-  },
-  {
-    title: 'Deliver to Success',
-    description: 'Execute and deliver the project with precision, ensuring it meets your expectations and drives your success.',
-    image: DeliverToSuccess
-  }
-]
 
 export default function WorkingProcess() {
   return (

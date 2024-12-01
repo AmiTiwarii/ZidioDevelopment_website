@@ -67,7 +67,7 @@ const ContactPage: React.FC = () => {
               Contact Us
             </h2>
             <p className="mt-2 text-center text-xl text-gray-200">
-              We're here to help and answer any question you might have
+              We are here to help and answer any question you might have
             </p>
           </motion.div>
           <div className="bg-white shadow-2xl rounded-lg overflow-hidden">

@@ -36,7 +36,7 @@ export default function SoftwareDevelopment() {
           >
             <h2 className="text-3xl font-bold text-white mb-6">Your Reliable Partner for IT Services Dedicated to Your Success</h2>
             <p className="text-gray-300 mb-6">
-              At Zidio, we're your trusted IT services partner, ensuring your success with reliable solutions tailored to your business needs. Count on us for robust software development, comprehensive IT support, and cutting-edge technology solutions that empower your business to thrive.
+              At Zidio, we were your trusted IT services partner, ensuring your success with reliable solutions tailored to your business needs. Count on us for robust software development, comprehensive IT support, and cutting-edge technology solutions that empower your business to thrive.
             </p>
             <div className="grid grid-cols-2 gap-4">
               {[

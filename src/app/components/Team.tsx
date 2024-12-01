@@ -50,7 +50,7 @@ export default function Team() {
   )
 }
 
-function SocialIcon({ icon }:any) {
+function SocialIcon({ icon }:{icon:string}) {
   return (
     <a href="#" className="text-white hover:text-pink-400 transition-colors duration-200">
       <svg className="w-6 h-6 fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

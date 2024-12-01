@@ -50,7 +50,7 @@ export default function Testimonials() {
                   className="rounded-full mx-auto relative z-10"
                 />
               </div>
-              <p className="text-white mb-6 text-lg italic">"{testimonials[currentIndex].comment}"</p>
+              <p className="text-white mb-6 text-lg italic">{`"{testimonials[currentIndex].comment}"`}</p>
               <p className="font-semibold text-pink-300">{testimonials[currentIndex].name}</p>
             </motion.div>
           </AnimatePresence>
