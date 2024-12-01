@@ -185,7 +185,7 @@ const AboutPage = () => {
                 </ul>
                 <div className="bg-blue-50 p-4 rounded-lg mb-6">
                     <blockquote className="italic text-gray-600">
-                    "The true sign of intelligence is not knowledge but imagination —Albert Einstein"
+                        &quot;The true sign of intelligence is not knowledge but imagination -Albert Einstein&quot;
                     </blockquote>
                 </div>
                 <motion.button
