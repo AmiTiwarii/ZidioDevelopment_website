@@ -167,7 +167,7 @@ const AboutPage = () => {
                 >
                 <h2 className="text-3xl font-bold mb-6 text-gray-800">Who we are and What we do?</h2>
                 <p className="mb-6 text-gray-600">
-                    Our team of skilled developers and creative thinkers specializes in turning complex ideas into user-friendly digital solutions. From custom software to cutting-edge mobile apps, we're dedicated to engineering excellence and pushing the boundaries of technology.
+                    Our team of skilled developers and creative thinkers specializes in turning complex ideas into user-friendly digital solutions. From custom software to cutting-edge mobile apps, we are dedicated to engineering excellence and pushing the boundaries of technology.
                 </p>
                 <ul className="space-y-2 mb-6">
                     <li className="flex items-center text-gray-700">
